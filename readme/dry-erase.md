@@ -10,7 +10,7 @@ coverY: 0
 
 1. {% code overflow="wrap" %}
    ```
-   Just Like This Dry Erase Board, Every New Day Is A Chance To Wipe The Slate Clean. 
+   Just Like A Dry Erase Board, Every New Day Is A Chance To Wipe The Slate Clean. 
    ```
    {% endcode %}
 2. {% code overflow="wrap" %}
