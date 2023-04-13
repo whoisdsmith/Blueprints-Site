@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_The_Emotional_Alchemist_Portray_an_alchemist_mixing_va_1_717f93c4-872c-4847-8f51-a24ab89374c3_1.jpg
+  ../../.gitbook/assets/Default_The_Emotional_Alchemist_Portray_an_alchemist_mixing_va_1_717f93c4-872c-4847-8f51-a24ab89374c3_1.jpg
 coverY: 0
 ---
 

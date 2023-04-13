@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_The_Resilience_Treehouse_Illustrate_a_treehouse_built_1_7b7846f4-f7c3-454e-a1bf-6cd2346680b1_1.jpg
+  ../../.gitbook/assets/Default_The_Resilience_Treehouse_Illustrate_a_treehouse_built_1_7b7846f4-f7c3-454e-a1bf-6cd2346680b1_1.jpg
 coverY: 0
 ---
 

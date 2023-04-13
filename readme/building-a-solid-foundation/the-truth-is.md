@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_The_Kindness_Time_Machine_Illustrate_a_time_machine_th_0_758f4fc0-a991-4d91-968d-621311868a07_1.jpg
+  ../../.gitbook/assets/Default_The_Kindness_Time_Machine_Illustrate_a_time_machine_th_0_758f4fc0-a991-4d91-968d-621311868a07_1.jpg
 coverY: 0
 ---
 

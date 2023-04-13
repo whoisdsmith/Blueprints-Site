@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_The_Gratitude_Balloon_Illustrate_a_hot_air_balloon_dec_0_26db9045-fb67-4e38-a939-90791955880f_1.jpg
+  ../../.gitbook/assets/Default_The_Gratitude_Balloon_Illustrate_a_hot_air_balloon_dec_0_26db9045-fb67-4e38-a939-90791955880f_1.jpg
 coverY: 0
 ---
 

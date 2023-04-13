@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_a_modern_day_journal_for_a_time_traveler_banner_vector_2_cf6d95d5-75de-45bd-8477-d0de0a2400e8_1.jpg
+  ../../.gitbook/assets/Default_a_modern_day_journal_for_a_time_traveler_banner_vector_2_cf6d95d5-75de-45bd-8477-d0de0a2400e8_1.jpg
 coverY: 0
 ---
 

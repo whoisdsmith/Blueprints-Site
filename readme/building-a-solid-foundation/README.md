@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_landscape_realistic_drawing_of_An_intricate_and_highly_1_b3e84d60-6d2c-4ec0-8940-67b668c45a04_1.jpg
+  ../../.gitbook/assets/Default_landscape_realistic_drawing_of_An_intricate_and_highly_1_b3e84d60-6d2c-4ec0-8940-67b668c45a04_1.jpg
 coverY: 20
 ---
 

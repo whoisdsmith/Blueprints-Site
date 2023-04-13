@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_The_Resilience_Iceberg_Depict_an_iceberg_with_visible_3_99238567-c123-402d-8cb1-501ca3688a5c_1.jpg
+  ../../.gitbook/assets/Default_The_Resilience_Iceberg_Depict_an_iceberg_with_visible_3_99238567-c123-402d-8cb1-501ca3688a5c_1.jpg
 coverY: 143
 ---
 

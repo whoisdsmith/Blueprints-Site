@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_The_Resilience_Phoenix_Depict_a_phoenix_rising_from_th_2_5e6157cc-50f4-4031-a442-ae914c83f2b9_1.jpg
+  ../../.gitbook/assets/Default_The_Resilience_Phoenix_Depict_a_phoenix_rising_from_th_2_5e6157cc-50f4-4031-a442-ae914c83f2b9_1.jpg
 coverY: 99
 ---
 

@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_a_highly_detailed_and_realistic_blueprint_with_a_keyho_2_63b0b302-a58d-4b9c-85f2-8206c0d61342_1.jpg
+  ../../.gitbook/assets/Default_a_highly_detailed_and_realistic_blueprint_with_a_keyho_2_63b0b302-a58d-4b9c-85f2-8206c0d61342_1.jpg
 coverY: 0
 ---
 

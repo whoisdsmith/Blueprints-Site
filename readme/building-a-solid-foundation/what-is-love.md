@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_The_Kindness_Map_Illustrate_a_map_with_roads_and_landm_0_16e9bc23-f657-4a1e-8c6c-94bb702f6024_1.jpg
+  ../../.gitbook/assets/Default_The_Kindness_Map_Illustrate_a_map_with_roads_and_landm_0_16e9bc23-f657-4a1e-8c6c-94bb702f6024_1.jpg
 coverY: 0
 ---
 

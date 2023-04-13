@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_diary_of_a_time_traveler_3_467abc2a-2b82-4cad-8644-0ec87731a80e_1.jpg
+  ../../.gitbook/assets/Default_diary_of_a_time_traveler_3_467abc2a-2b82-4cad-8644-0ec87731a80e_1.jpg
 coverY: 0
 ---
 
