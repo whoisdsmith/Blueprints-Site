@@ -10,7 +10,7 @@ coverY: 0
 
 
 
-Those are the things I'm reminded of every time I think about my father. It's what keeps me motivated and what keeps me in check when I'm not living the way I was shown.
+> Those are the things I'm reminded of every time I think about my father. It's what keeps me motivated and what keeps me in check when I'm not living the way I was shown.
 
 
 
