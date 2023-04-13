@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_The_Gratitude_Balloons_Depict_a_bundle_of_balloons_eac_0_4e30ded7-2aa0-4c85-92a8-d3a00b7ee2b4_1.jpg
+  ../../.gitbook/assets/Default_The_Gratitude_Balloons_Depict_a_bundle_of_balloons_eac_0_4e30ded7-2aa0-4c85-92a8-d3a00b7ee2b4_1.jpg
 coverY: 129
 ---
 

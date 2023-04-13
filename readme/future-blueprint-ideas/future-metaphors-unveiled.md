@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Leonardo_Diffusion_An_intricate_and_highly_detailed_schematic_3.jpg
+  ../../.gitbook/assets/Leonardo_Diffusion_An_intricate_and_highly_detailed_schematic_3.jpg
 coverY: 0
 ---
 

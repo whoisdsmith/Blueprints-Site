@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_a_modern_day_digital_diary_of_sadness_2_ae77e51d-b649-4582-b1c0-d3f69c80072f_1.jpg
+  ../../.gitbook/assets/Default_a_modern_day_digital_diary_of_sadness_2_ae77e51d-b649-4582-b1c0-d3f69c80072f_1.jpg
 coverY: -68
 ---
 

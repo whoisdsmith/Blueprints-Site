@@ -1,10 +1,10 @@
 ---
 cover: >-
-  ../.gitbook/assets/Default_A_highly_detailed_map_with_a_keyhole_in_the_center_rev_3_72a75c61-0751-4ecb-b922-0dadd9a4be0f_1.jpg
+  ../../.gitbook/assets/Default_A_highly_detailed_map_with_a_keyhole_in_the_center_rev_3_72a75c61-0751-4ecb-b922-0dadd9a4be0f_1.jpg
 coverY: -76
 ---
 
-# Future Blueprint Ideas
+# Blueprint Ideas
 
 ***
 
