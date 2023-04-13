@@ -1,37 +1,39 @@
+# Blueprints
+
 ![Banner](BPBanner.PNG)
 
-# Blueprints For A Better Future
+## Blueprints For A Better Future
 
----
+***
 
 A collection of notes, thoughts, ideas, wisdom and schematics to create a better future for yourself.
 
----
+***
 
-- [Building A Solid Foundation](Building%20A%20Solid%20Foundation.md)
-- [Building a Better Future](Building%20a%20Better%20Future.md)
-- [Blueprints for Utopia](Blueprints%20for%20Utopia.md)
-- [Daily Wisdom With Everett](Daily%20Wisdom%20With%20Everett.md)
-- [Decisions](Decisions.md)
-- [Dreamscapes](Dreamscapes.md)
-- [Dry Erase](Dry%20Erase.md)
-- [Emotional Growth Imagery](Emotional%20Growth%20Imagery.md)
-- [Endings](Endings.md)
-- [Future Blueprint Ideas](Future%20Blueprint%20Ideas.md)
-- [Future Metaphors Unveiled](Future%20Metaphors%20Unveiled.md)
-- [Glad To Exist](Glad%20To%20Exist.md)
-- [Grow Through Your Changes](Grow%20Through%20Your%20Changes.md)
-- [Happiness In DNA](Happiness%20In%20DNA.md)
-- [Happy](Happy.md)
-- [Light Absorption](Light%20Absorption.md)
-- [More Questions](More%20Questions.md)
-- [No Grey Area](No%20Grey%20Area.md)
-- [Passenger](Passenger.md)
-- [Punches](Punches.md)
-- [The Bright Sides](The%20Bright%20Sides.md)
-- [The Truth Is](The%20Truth%20Is.md)
-- [Time](Time.md)
-- [What Is Love](What%20Is%20Love.md)
-- [Write to Inspire](Write%20to%20Inspire.md)
+* [Building A Solid Foundation](readme/building-a-solid-foundation.md)
+* [Building a Better Future](readme/building-a-better-future.md)
+* [Blueprints for Utopia](readme/blueprints-for-utopia.md)
+* [Daily Wisdom With Everett](readme/daily-wisdom-with-everett.md)
+* [Decisions](readme/decisions.md)
+* [Dreamscapes](readme/dreamscapes.md)
+* [Dry Erase](readme/dry-erase.md)
+* [Emotional Growth Imagery](readme/emotional-growth-imagery.md)
+* [Endings](readme/endings.md)
+* [Future Blueprint Ideas](readme/future-blueprint-ideas.md)
+* [Future Metaphors Unveiled](readme/future-metaphors-unveiled.md)
+* [Glad To Exist](readme/glad-to-exist.md)
+* [Grow Through Your Changes](readme/grow-through-your-changes.md)
+* [Happiness In DNA](readme/happiness-in-dna.md)
+* [Happy](readme/happy.md)
+* [Light Absorption](readme/light-absorption.md)
+* [More Questions](readme/more-questions.md)
+* [No Grey Area](readme/no-grey-area.md)
+* [Passenger](readme/passenger.md)
+* [Punches](readme/punches.md)
+* [The Bright Sides](readme/the-bright-sides.md)
+* [The Truth Is](readme/the-truth-is.md)
+* [Time](readme/time.md)
+* [What Is Love](readme/what-is-love.md)
+* [Write to Inspire](readme/write-to-inspire.md)
 
----
+***
