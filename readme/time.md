@@ -1,16 +1,24 @@
-## Time
-
+---
+cover: >-
+  ../.gitbook/assets/Default_diary_of_a_time_traveler_3_467abc2a-2b82-4cad-8644-0ec87731a80e_1.jpg
+coverY: 0
 ---
 
-	There’s always too much of it, when we dont want it and never enough when we do.
+# Time
+
+***
+
+{% code overflow="wrap" %}
+```
+There’s always too much of it, when we dont want it and never enough when we do.
+```
+{% endcode %}
 
 I often wonder what I would say to my younger self If I had the chance.
 
 I think I would tell me to stop living like tomorrow never comes and start living to build a future.
 
-To slow down and live in the moment and stop chasing the people who moved on from my life.  
-
-  
+To slow down and live in the moment and stop chasing the people who moved on from my life.
 
 All my life I’ve heard that “time heals everything” and it surely does indeed. Eventually. There is no quick solution to pain, loss, humility, etc, you heal when your heart and your soul finally come to agreement with each other.
 

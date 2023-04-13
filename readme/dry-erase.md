@@ -8,12 +8,16 @@ coverY: 0
 
 ***
 
-1. ```
+1. {% code overflow="wrap" %}
+   ```
    Just Like This Dry Erase Board, Every New Day Is A Chance To Wipe The Slate Clean. 
    ```
-2. ```
+   {% endcode %}
+2. {% code overflow="wrap" %}
+   ```
    You Cant Ever Change What Happend You Can Never Go Back. 
    ```
+   {% endcode %}
 
 * Living In The Past Kills Every Opportunity To Be Happy In The Present.
 * Let Sadness Run Its Course,
