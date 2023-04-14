@@ -1,12 +1,6 @@
 # Table of contents
 
 * [Blueprints](README.md)
-  * [Blueprint Ideas](readme/future-blueprint-ideas/README.md)
-    * [Blueprints for Utopia](readme/future-blueprint-ideas/blueprints-for-utopia.md)
-    * [Building a Better Future](readme/future-blueprint-ideas/building-a-better-future.md)
-    * [Dreamscapes](readme/future-blueprint-ideas/dreamscapes.md)
-    * [Emotional Growth Imagery](readme/future-blueprint-ideas/emotional-growth-imagery.md)
-    * [Future Metaphors Unveiled](readme/future-blueprint-ideas/future-metaphors-unveiled.md)
   * [Building A Solid Foundation](readme/building-a-solid-foundation.md)
     * [Dry Erase](readme/dry-erase.md)
     * [Endings](readme/endings.md)
@@ -44,3 +38,9 @@
       * [Emotional Landmarks](readme/image-library/unlocking-your-mind/emotional-landmarks.md)
       * [Keys](readme/image-library/unlocking-your-mind/keys.md)
       * [Network of Nodes](readme/image-library/unlocking-your-mind/network-of-nodes.md)
+  * [Blueprint Ideas](readme/future-blueprint-ideas/README.md)
+    * [Blueprints for Utopia](readme/future-blueprint-ideas/blueprints-for-utopia.md)
+    * [Building a Better Future](readme/future-blueprint-ideas/building-a-better-future.md)
+    * [Dreamscapes](readme/future-blueprint-ideas/dreamscapes.md)
+    * [Emotional Growth Imagery](readme/future-blueprint-ideas/emotional-growth-imagery.md)
+    * [Future Metaphors Unveiled](readme/future-blueprint-ideas/future-metaphors-unveiled.md)
