@@ -1,14 +1,10 @@
 # Daily Wisdom With Everett
 
-![](../wisdombanner.jpg)
-
 ***
 
 ## An ALTER EGO Could Change Your Life
 
-[An ALTER EGO Could Change Your Life](https://www.youtube.com/watch?v=nHtLk-M6hsE)
-
-***
+{% embed url="https://www.youtube.com/watch?v=nHtLk-M6hsE" %}
 
 ## Power of Positive Thinking
 
@@ -29,9 +25,11 @@
 
 #### Notes
 
+{% code overflow="wrap" %}
 ```
-I find the best way too remove problems that seem to overbear you, is to love them. Every single one, and to visualize this problem, and to think of how these issues you deal with have the potential to better your life, in any way, shape, or form. No matter how stressful, how tedious, or painful these problems are, once you remove the negative feelings attached to them, they become opportunities rather than problems.
+I find the best way to remove problems that seem to overbear you, is to love them. Every single one, and to visualize this problem, and to think of how these issues you deal with have the potential to better your life, in any way, shape, or form. No matter how stressful, how tedious, or painful these problems are, once you remove the negative feelings attached to them, they become opportunities rather than problems.
 ```
+{% endcode %}
 
 ***
 
@@ -60,9 +58,11 @@ I find the best way too remove problems that seem to overbear you, is to love th
 
 ### Notes
 
+{% code overflow="wrap" %}
 ```
 The key to growth is understanding that without changing the underlying structure, (yourself) nothing will change. It will be a long and usually fruitless battle with yourself to change your habits, actions and patterns when you identify with them. Instead, start and end your day identifying who you wish to be, how you wish to think, how you wish to feel, and what not. Next, stop giving power to what bothers you. Your power = your awareness. The more you react and focus your awareness on the negative, the more it plays a part in your life. If you can be indifferent, or better yet love it, it will remove itself from your life. 
 ```
+{% endcode %}
 
 ***
 
@@ -83,9 +83,11 @@ The key to growth is understanding that without changing the underlying structur
 
 ### Notes
 
+{% code overflow="wrap" %}
 ```
 We are all playing as characters, and we have the choice consciously too choose what that character is. Take some time too think about who you want too be and write it down. Then, embody that person as if you already are that person. How would this version of me think? How would this version of me respond to this situation? Dont focus on reforming because you are creating more problems than needed. Finally, feel it to be true, for feelings are the way you respond to your subconscious, and your subconscious is what makes this a reality.
 ```
+{% endcode %}
 
 ***
 
@@ -147,9 +149,11 @@ We are all playing as characters, and we have the choice consciously too choose 
 
 #### Notes
 
+{% code overflow="wrap" %}
 ```
 This right here is how you apply what I wrote above. Instead of continuing too give in too old beliefs and ideas about life that bring you down, you use this to form your thoughts and beliefs that help you. For example, if you have the firm belief that something always stressed you out, change your thought too, “this is easy and I handle it with zero problems”. You have to feel it to be true however, and the greatest way is to catch yourself in a old belief and thought, step back and change that thought and feeling.
 ```
+{% endcode %}
 
 ***
 
