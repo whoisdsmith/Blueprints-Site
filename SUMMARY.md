@@ -39,6 +39,7 @@
       * [Keys](readme/image-library/unlocking-your-mind/keys.md)
       * [Network of Nodes](readme/image-library/unlocking-your-mind/network-of-nodes.md)
   * [Blueprint Ideas](readme/future-blueprint-ideas/README.md)
+    * [AutoGPT](readme/future-blueprint-ideas/autogpt.md)
     * [Blueprints for Utopia](readme/future-blueprint-ideas/blueprints-for-utopia.md)
     * [Building a Better Future](readme/future-blueprint-ideas/building-a-better-future.md)
     * [Dreamscapes](readme/future-blueprint-ideas/dreamscapes.md)
